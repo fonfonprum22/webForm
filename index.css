@@ -1,0 +1,28 @@
+form {
+    border: 1px solid black;
+    justify-content: center;
+    padding: 20px;
+}
+
+.form {
+    border: 1px solid black;
+    justify-content: center;
+    padding: 20px;
+}
+
+body {
+    text-align: center;
+}
+
+.logo {
+    width: 100px;
+}
+
+.checkbox {
+    width: 13px;
+}
+
+.bullet {
+    width: 200px;
+    color: chartreuse;
+}
